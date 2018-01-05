@@ -1,9 +1,9 @@
 {
-  "name": "angularjs-webpack-seed",
+  "name": "angularjsWebpack",
   "private": true,
   "version": "0.0.0",
   "description": "A starter project for AngularJS and webpack",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/cbryer/angularjsWebpack",
   "license": "MIT",
   "dependencies": {
     "angular": "1.5.11",
